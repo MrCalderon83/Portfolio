@@ -1,0 +1,11 @@
+#APROVADO/REPROVADO
+
+nota = float(input("Digite a nota:"))
+
+print("Você está:")
+
+if nota > 7 :
+    print ("aprovado")
+    
+else:
+    print ("reprovado")
