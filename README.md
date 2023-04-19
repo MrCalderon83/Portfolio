@@ -1,2 +1,2 @@
 # portf-lio
-Meu portfólio de projetos.
+Meu portfólio de projetos, tanto de estudos como profissionais.
